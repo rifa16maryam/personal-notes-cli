@@ -1,13 +1,18 @@
-# Personal Notes CLI
+# 📝 Personal Notes CLI
 
-A simple command-line tool to save, list, and clear personal notes (stored locally).
+A simple command-line tool to **add, list, and clear personal notes** directly from your terminal.
 
-## How to Use
-- Add a note: `python cli.py add "Read Quran"`
-- List notes: `python cli.py list`
-- Clear all notes: `python cli.py clear`
+## 🚀 Features
+- Add new notes
+- View your saved notes
+- Clear all notes when done
+- Notes are stored locally in a JSON file
 
-Notes are saved in your home folder as `.personal_notes.json`.
+## 📦 Installation
+Clone this repository:
 
-## License
-MIT
+```bash
+git clone https://github.com/<rifa maryam>/personal-notes-cli.git
+cd personal-notes-cli
+
+
